@@ -1,0 +1,40 @@
+.kuca {
+    line-height: 19px;
+}
+
+.conl {
+    color: #198754;
+}
+
+.conl:hover {
+    color: white;
+    transform: scale(1.1);
+}
+
+p:hover {
+    transform: scale(1.1);
+}
+
+h1:hover {
+    transform: scale(1.1);
+}
+
+.btn:hover {
+    transform: scale(1.1);
+}
+
+.logo {
+    width: 7%;
+}
+
+.navbar-toggler {
+    position: absolute;
+    right: 5%;
+}
+
+#home img {
+    width: 100vw;
+    height: 100vh;
+}
+
+
