@@ -37,4 +37,8 @@ h1:hover {
     height: 100vh;
 }
 
+.navbar-brand {
+    font-size: large;
+}
+
 
