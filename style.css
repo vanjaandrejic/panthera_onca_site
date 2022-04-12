@@ -34,7 +34,8 @@ h1:hover {
 
 #home img {
     width: 100vw;
-    height: 100vh;
+    min-height: 45vh;
+    max-height: 95vh;
 }
 
 .navbar-brand {
